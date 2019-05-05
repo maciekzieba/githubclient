@@ -18,4 +18,8 @@ public class Project {
     public int GetStars() {
         return this.stars;
     }
+
+    public String GetId() {
+        return this.id;
+    }
 }
